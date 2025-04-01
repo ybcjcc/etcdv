@@ -1,4 +1,4 @@
-module etcdv
+module github.com/ybcjcc/etcdv
 
 go 1.18
 

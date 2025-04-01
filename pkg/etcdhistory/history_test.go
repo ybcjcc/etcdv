@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"etcdv/pkg/types"
+	"github.com/ybcjcc/etcdv/pkg/types"
 
 	"github.com/stretchr/testify/assert"
 )

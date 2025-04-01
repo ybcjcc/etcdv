@@ -6,8 +6,9 @@ import (
 	"sort"
 	"time"
 
-	"etcdv/internal/utils"
-	"etcdv/pkg/types"
+	"github.com/ybcjcc/etcdv/pkg/types"
+
+	"github.com/ybcjcc/etcdv/internal/utils"
 
 	"go.etcd.io/etcd/client/v3"
 )

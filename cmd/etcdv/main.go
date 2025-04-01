@@ -7,9 +7,10 @@ import (
 	"os"
 	"text/tabwriter"
 
+	"github.com/ybcjcc/etcdv/pkg/types"
+
 	"github.com/spf13/cobra"
-	"etcdv/pkg/etcdhistory"
-	"etcdv/pkg/types"
+	"github.com/ybcjcc/etcdv/pkg/etcdhistory"
 )
 
 var (
