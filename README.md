@@ -17,14 +17,14 @@
 确保你的系统已安装 Go 1.16 或更高版本，然后运行：
 
 ```bash
-go install github.com/your-username/etcdv@latest
+go install github.com/ybcjcc/etcdv/cmd/etcdv@latest
 ```
 
 或者从源码编译：
 
 ```bash
 git clone https://github.com/ybcjcc/etcdv.git
-cd etcdv
+cd cmd/etcdv
 go build
 ```
 
